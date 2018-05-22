@@ -6,8 +6,8 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/nursery/nursery.names
 
 2. Sources:
    (a) Creator: Vladislav Rajkovic et al. (13 experts)
-   (b) Donors: Marko Bohanec   (marko.bohanec@ijs.si)
-               Blaz Zupan      (blaz.zupan@ijs.si)
+   (b) Donors: Marko Bohanec  
+               Blaz Zupan     
    (c) Date: June, 1997
 
 3. Past Usage:
@@ -64,8 +64,7 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/nursery/nursery.names
    concept (NURSERY) the model includes four intermediate concepts:
    EMPLOY, STRUCT_FINAN, STRUCTURE, SOC_HEALTH. Every concept is in
    the original model related to its lower level descendants by a set
-   of examples (for these examples sets see 
-   http://www-ai.ijs.si/BlazZupan/nursery.html).
+   of examples.
 
    The Nursery Database contains examples with the structural
    information removed, i.e., directly relates NURSERY to the eight input
@@ -96,10 +95,10 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/nursery/nursery.names
 
 9. Class Distribution (number of instances per class)
 
-   class        N         N[%]
+   class        N         N percent
    ------------------------------
-   not_recom    4320   (33.333 %)
-   recommend       2   ( 0.015 %)
-   very_recom    328   ( 2.531 %)
-   priority     4266   (32.917 %)
-   spec_prior   4044   (31.204 %)
+   not_recom    4320   (33.333 )
+   recommend       2   ( 0.015 )
+   very_recom    328   ( 2.531 )
+   priority     4266   (32.917 )
+   spec_prior   4044   (31.204 )
